@@ -42,8 +42,8 @@ Il nostro gruppo ha pensato e sta realizzando una applicazione web per **rendere
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="28" style="border-radius: 3px;"> 
   <img src="https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" height="28" style="border-radius: 3px;">
   <a href="https://github.com/cheshire-cat-ai/core" style="text-decoration: none; display: flex; align-items: middle;">
-  <img src="https://raw.githubusercontent.com/Zuccante2026-4IB/.github/main/imgs/Logo-Cheshire-Cat.png" height="28" width="28" style="vertical-align: middle; border-radius: 3px 0 0 3px; background-color: #FFFFEE; filter: grayscale(100%) brightness(1);">
-  <img src="https://img.shields.io/badge/-Cheshire%20Cat%20AI-FFFFEE?style=for-the-badge&logoColor=black" height="28" style="vertical-align: middle; border-radius: 0 3px 3px 0; margin-left: -1px;">
+  <img src="https://raw.githubusercontent.com/Zuccante2026-4IB/.github/main/imgs/Logo-Cheshire-Cat.png" height="28" width="28" style="vertical-align: middle; border-radius: 3px 0 0 3px; background-color: #f6f3ec;">
+  <img src="https://img.shields.io/badge/-Cheshire%20Cat%20AI-f6f3ec?style=for-the-badge&logoColor=black" height="28" style="vertical-align: middle; border-radius: 0 3px 3px 0; margin-left: -1px;">
 </a>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28" style="border-radius: 3px;">  
   <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=000000" height="28" style="border-radius: 3px;">  
