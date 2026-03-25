@@ -7,6 +7,8 @@
   - [**Obiettivo del progetto**](#obiettivo-del-progetto)
   - [**Tecnologie usate**](#tecnologie-usate)
   - [**Team**](#team)
+  - [**Struttura**](#struttura)
+  - [**Guida all'installazione**](#guida-allinstallazione)
 
 ## **Regole che ci siamo imposti per il progetto**
 
@@ -58,53 +60,69 @@ Il nostro gruppo ha pensato e sta realizzando una applicazione web per **rendere
 ## **Team**
 
 <pre>
-1. Bashar IftuRahman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Design-blue" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/BasharIftuRahman"><img src="https://img.shields.io/badge/BasharIftu-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+1. Bashar IftuRahman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Design-blue" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/IftuRahman-Bashar"><img src="https://img.shields.io/badge/IftuRahman-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-2. Batista Rodriguez Sofia &nbsp; <img src="https://img.shields.io/badge/Team-Design-blue" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/SofiaBatista"><img src="https://img.shields.io/badge/SofiaB-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+2. Batista Rodriguez Sofia &nbsp; <img src="https://img.shields.io/badge/Team-Design-blue" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/xzsof"><img src="https://img.shields.io/badge/Sofia-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-3. Brusegan Samuele &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Backend-darkblue" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/samuele-brusegan"><img src="https://img.shields.io/badge/samuele brusegan-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+3. Brusegan Samuele &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Backend-darkblue" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/samuele-brusegan"><img src="https://img.shields.io/badge/Samuele-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-4. Busetto Enrico &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Eventi-orange" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp; <a href="https://github.com/EnricoBusetto"><img src="https://img.shields.io/badge/EnricoB-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+4. Busetto Enrico &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Eventi-orange" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Enrico"><img src="https://img.shields.io/badge/Enrico-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-5. Canziani Alvise &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Eventi-orange" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp; <a href="https://github.com/AlviseCanziani"><img src="https://img.shields.io/badge/AlviseC-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+5. Canziani Alvise &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Eventi-orange" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/canzialvi"><img src="https://img.shields.io/badge/Alvise-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-6. Cotelea Alessandro &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-AI-purple" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/AlessandroCotelea"><img src="https://img.shields.io/badge/AlexC-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+6. Cotelea Alessandro &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-AI-purple" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/AlessandroCotelea"><img src="https://img.shields.io/badge/Alessandro C-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-7. Della Ratta Giuseppe &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Eventi-orange" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp; <a href="https://github.com/GiuseppeDellaRatta"><img src="https://img.shields.io/badge/GiuseppeDR-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+7. Della Ratta Giuseppe &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Eventi-orange" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/GiuseppeDellaRatta"><img src="https://img.shields.io/badge/Giuseppe-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-8. Di Battista Alessio &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-AI-purple" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/AlessioDiBattista"><img src="https://img.shields.io/badge/AlessioDB-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+8. Di Battista Alessio &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-AI-purple" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/AlessioDiBattista"><img src="https://img.shields.io/badge/Alessio-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-9. Don Nicolas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-HTML-red" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/NicolasDon"><img src="https://img.shields.io/badge/NicolasD-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+9. Don Nicolas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-HTML-red" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/nicoo-don"><img src="https://img.shields.io/badge/Nicolas-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-10. Gazi Tanvir &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-HTML-red" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/TanvirGazi"><img src="https://img.shields.io/badge/TanvirG-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+10.  Gazi Tanvir &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-HTML-red" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/TanvirGazi"><img src="https://img.shields.io/badge/Tanvir-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-11. Guerra Matteo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Design-blue" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/MatteoGuerra"><img src="https://img.shields.io/badge/MatteoG-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+11.  Guerra Matteo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Design-blue" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Matteoguerra07"><img src="https://img.shields.io/badge/Matteo G-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-12. Guglielmi Giacomo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-AI-purple" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/GiacomoGuglielmi"><img src="https://img.shields.io/badge/GiacomoG-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+12.  Guglielmi Giacomo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-AI-purple" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Giacomo-Guglio"><img src="https://img.shields.io/badge/Giacomo-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-13. Guo Xinhao William &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Eventi-orange" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp; <a href="https://github.com/WilliamGuo"><img src="https://img.shields.io/badge/WilliamG-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+13.  Guo Xinhao William &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Eventi-orange" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/william-guo08"><img src="https://img.shields.io/badge/William-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-14. Isandelli Lorenzo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-HTML-red" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/LorenzoIsandelli"><img src="https://img.shields.io/badge/LorenzoI-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+14.  Isandelli Lorenzo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-HTML-red" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/isux777"><img src="https://img.shields.io/badge/Lorenzo-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-15. Kazi Ilham Hossain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-AI-purple" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/HossainKazi"><img src="https://img.shields.io/badge/IlhamK-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+15.  Kazi Ilham Hossain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-AI-purple" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ilhamkazi"><img src="https://img.shields.io/badge/Ilham-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-16. Lghoul Zainab &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Eventi-orange" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp; <a href="https://github.com/ZainabLghoul"><img src="https://img.shields.io/badge/ZainabL-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+16.  Lghoul Zainab &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Eventi-orange" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/whoszai"><img src="https://img.shields.io/badge/Zainab-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-17. Mauriello Alessandro &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Eventi-orange" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp; <a href="https://github.com/AlessandroMauriello"><img src="https://img.shields.io/badge/AlexM-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+17.  Mauriello Alessandro &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Eventi-orange" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Elmauri08"><img src="https://img.shields.io/badge/Alessandro M-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-18. Morettin Matteo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-HTML-red" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/MatteoMorettin"><img src="https://img.shields.io/badge/MatteoM-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+18.  Morettin Matteo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-HTML-red" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/matt373"><img src="https://img.shields.io/badge/Matteo M-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-19. Roibu Marco &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Design-blue" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/MarcoRoibu"><img src="https://img.shields.io/badge/MarcoR-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+19.  Roibu Marco &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Design-blue" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ImMarcuzz"><img src="https://img.shields.io/badge/Marco-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-20. Rossi Emanuele &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Eventi-orange" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp; <a href="https://github.com/EmanueleRossi"><img src="https://img.shields.io/badge/EmanueleR-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+20.  Rossi Emanuele &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Eventi-orange" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Ema08882"><img src="https://img.shields.io/badge/Emanuele-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-21. Tonini Riccardo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Backend-darkblue" style="vertical-align: middle;"> &nbsp; <a href="https://github.com/RiccardoTonini"><img src="https://img.shields.io/badge/RiccardoT-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+21.  Scattolin Tommaso &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Backend-darkblue" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/ct-0401"><img src="https://img.shields.io/badge/Tommaso-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-22. Scattolin Tommaso &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Backend-darkblue" style="vertical-align: middle;"> &nbsp; <a href="https://github.com/TommasoScattolin"><img src="https://img.shields.io/badge/TommasoS-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+22.  Tonini Riccardo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Backend-darkblue" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Romolo71"><img src="https://img.shields.io/badge/Riccardo-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-23. Yasashinyy Nikita &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-AI-purple" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/NikitaYasashinyy"><img src="https://img.shields.io/badge/NikitaY-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+23.  Yasashinyy Nikita &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-AI-purple" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/NikitaYesh"><img src="https://img.shields.io/badge/Nikita-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-24. Zambelli Anna &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Backend-darkblue" style="vertical-align: middle;"> &nbsp; <a href="https://github.com/AnnaZambelli"><img src="https://img.shields.io/badge/AnnaZ-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+24.  Zambelli Anna &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-Backend-darkblue" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/annaZambelli99"><img src="https://img.shields.io/badge/Anna-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 <br>
-25. Zhang Lelihao &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-AI-purple" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/LelihaoZhang"><img src="https://img.shields.io/badge/LelihaoZ-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
+25.  Zhang Lelihao &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Team-AI-purple" style="vertical-align: middle;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Leliiiii"><img src="https://img.shields.io/badge/Lelihao-181717?style=flat-square&logo=github" style="vertical-align: middle;"></a>
 </pre>
+
+## **Struttura**
+
+Questa organizzazione contiene una repository per ogni sezione del nostro progetto:
+- Agente AI
+- Gestione degli Eventi tramite Javascript
+- Sito Web
+- Backend
+
+Infine è presente una repository completa con tutto il progetto pronto da scaricare e usare.
+
+## **Guida all'installazione**
+Per accedere al nostro codice sorgente basta eseguuire questi semplici passaggi:
+1. Clonare la Repository con: 
+2. Installare le dipendenze con il comando:
+3. Sfruttare liberamente il codice
