@@ -40,7 +40,7 @@ Il nostro gruppo ha pensato e sta realizzando una applicazione web per **rendere
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![Cheshire Cat AI](https://img.shields.io/badge/Cheshire%20Cat%20AI-7013C2?style=for-the-badge&logo=https://raw.githubusercontent.com/Zuccante2026-4IB/.github/imgs/Logo-Cheshire-Cat.svg&logoColor=%23FFFEEE)
+![Cheshire Cat AI](https://img.shields.io/badge/Cheshire%20Cat%20AI-7013C2?style=for-the-badge&logo=https://github.com/cheshire-cat-ai.png&logoColor=white&sanitize=true)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
