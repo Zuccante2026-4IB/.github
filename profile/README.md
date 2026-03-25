@@ -41,8 +41,9 @@ Il nostro gruppo ha pensato e sta realizzando una applicazione web per **rendere
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="28" style="border-radius: 3px;">  
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="28" style="border-radius: 3px;"> 
   <img src="https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" height="28" style="border-radius: 3px;">
-  <a href="https://cheshirecat.ai/" target="_blank" style="text-decoration: none; white-space: nowrap;">
-  <img src="https://img.shields.io/badge/-%20-FFFFEE?style=for-the-badge" height="28" style="vertical-align: middle; border-radius: 3px 0 0 3px; margin-right: -34px;"><img src="https://raw.githubusercontent.com/Zuccante2026-4IB/.github/main/imgs/Logo-Cheshire-Cat.svg" height="16" width="16" style="vertical-align: middle; position: relative; margin-right: 10px;"><img src="https://img.shields.io/badge/Cheshire%20Cat%20AI-FFFFEE?style=for-the-badge&logoColor=black" height="28" style="vertical-align: middle; border-radius: 0 3px 3px 0; margin-left: -5px;">
+  <a href="https://github.com/cheshire-cat-ai/core" style="text-decoration: none; display: flex; align-items: middle;">
+  <img src="https://raw.githubusercontent.com/Zuccante2026-4IB/.github/main/imgs/Logo-Cheshire-Cat.svg" height="28" width="28" style="vertical-align: middle; border-radius: 3px 0 0 3px; background-color: #FFFFEE;">
+  <img src="https://img.shields.io/badge/-Cheshire%20Cat%20AI-FFFFEE?style=for-the-badge&logoColor=black" height="28" style="vertical-align: middle; border-radius: 0 3px 3px 0; margin-left: -1px;">
 </a>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28" style="border-radius: 3px;">  
   <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=000000" height="28" style="border-radius: 3px;">  
