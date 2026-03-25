@@ -34,17 +34,24 @@ L'obiettivo del progetto è quello di creare uno strumento che **aiuti le person
 Il nostro gruppo ha pensato e sta realizzando una applicazione web per **rendere più accessibili gli eventi** del territorio del comune **di Venezia**
 
 ## **Tecnologie usate**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![Cheshire Cat AI](https://img.shields.io/badge/Cheshire%20Cat%20AI-7013C2?style=for-the-badge&logo=https://github.com/cheshire-cat-ai.png&logoColor=white&sanitize=true)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=000000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">  
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="28" style="border-radius: 3px;">  
+  <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="28" style="border-radius: 3px;">  
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" style="border-radius: 3px;">  
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="28" style="border-radius: 3px;">  
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="28" style="border-radius: 3px;"> 
+  <img src="https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" height="28" style="border-radius: 3px;">
+  <a style="text-decoration: none; display: flex; align-items: center; border-radius: 3px; overflow: hidden;">
+    <span style="background-color: #FFFFEE; display: flex; align-items: center; justify-content: center; height: 28px; width: 34px;">
+      <img src="https://raw.githubusercontent.com/Zuccante2026-4IB/.github/main/imgs/Logo-Cheshire-Cat.svg" height="18" width="18">
+    </span>
+    <img src="https://img.shields.io/badge/-Cheshire%20Cat%20AI-FFFFEE?style=for-the-badge" height="28" style="margin-left: -1px;">
+  </a>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28" style="border-radius: 3px;">  
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=000000" height="28" style="border-radius: 3px;">  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" height="28" style="border-radius: 3px;">  
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=fff" height="28" style="border-radius: 3px;">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="28" style="border-radius: 3px;">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="28" style="border-radius: 3px;">
+  
+</div>
